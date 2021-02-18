@@ -1,0 +1,1 @@
+!function(){"use strict";console.log("test.js,被加载了"),console.log("index.js,被加载了"),console.log(16)}();
